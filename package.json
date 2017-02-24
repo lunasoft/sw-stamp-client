@@ -1,0 +1,19 @@
+{
+  "name": "sw-stamp-client",
+  "version": "0.0.1",
+  "description": "Stamp client application for SW SmarterWeb",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "cfdi",
+    "factura",
+    "electronica"
+  ],
+  "author": "Hermes Jimenez Luna",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.4.15"
+  }
+}
